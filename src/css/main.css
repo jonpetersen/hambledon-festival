@@ -18,8 +18,8 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: #282c34;
-  color: white;
+  background-color: #b6c3e1;
+  color: #d54e22;
 }
 
 a {
@@ -27,6 +27,18 @@ a {
   text-decoration: none;
 }
 
+.date {
+  display:inline;
+  color: black;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+
 .content {
   padding: 0 32px;
+}
+
+h1 {
+   font-family: 'Mystery Quest', sans-serif;
 }
