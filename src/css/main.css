@@ -32,6 +32,7 @@ a {
   color: black;
   text-decoration: none;
   white-space: nowrap;
+  font-family: 'Chivo';
 }
 
 
@@ -43,6 +44,11 @@ h1 {
    font-family: 'Mystery Quest', sans-serif;
    font-weight: normal;
 }
+
+h3 {
+   font-family: 'Asul';
+}
+
 
 .treeimage {
   margin-top: 120px;
