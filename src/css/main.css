@@ -42,3 +42,10 @@ a {
 h1 {
    font-family: 'Mystery Quest', sans-serif;
 }
+
+.treeimage {
+  width: 420px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
