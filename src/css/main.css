@@ -82,3 +82,32 @@ h4 {
   margin-left: 50px;
   margin-right: 50px;	
 }
+
+.tito-tickets-button {
+  display: inline-block;
+  padding: .5em 1.2em;
+  margin: 15px 5px 15px 5px;
+  border-radius: 2em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Asul';
+  font-size: 16px;
+  font-weight:300;
+  color:#FFFFFF;
+  background:none;
+  border: 0px;
+  background-color:#4eb5f1;
+  text-align:center;
+  transition: all 0.2s;
+}
+
+.tito-tickets-button:hover {
+  background-color:#4095c6;
+}
+
+@media all and (max-width:30em) {
+ .tito-tickets-button{
+  display:block;
+  margin:0.2em auto;
+ }
+}
