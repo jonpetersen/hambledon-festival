@@ -1,5 +1,5 @@
 ---
 title: "Hambledon Festival Association"
-Subtitle: "Upcoming Events"
+subtitle: "Upcoming Events"
 draft: false
 ---
