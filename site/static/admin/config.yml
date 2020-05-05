@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
-  repo: jonpetersen/hambledon-festival.github.io
   branch: master # Branch to update (optional; defaults to master)
+  identity_url: "https://hambledonfestival.co.uk/.netlify/identity"
+  gateway_url: "https://hambledonfestival.co.uk/.netlify/git"
 media_folder: static/images
 public_folder: images
 site_url: https://hambledonfestival.co.uk
