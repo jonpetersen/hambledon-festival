@@ -1,5 +1,5 @@
 ---
 title: Hambledon Festival Association
-subtitle: Upcoming
+subtitle: Upcoming Events
 draft: false
 ---
