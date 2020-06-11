@@ -1,8 +1,11 @@
 ---
 title: Hambledon Festival Association
 subtitle: Upcoming Events
-draft: false
-blurb: "<h2><div><span class=date>Friday 19th June to Sunday 21st June 2020</span> - Hambledon Midsummer Festival</div></h2>
+draft: false 
+---
+
+Testing
+<h3><div><span class=date>Friday 19th June to Sunday 21st June 2020</span> - Hambledon Midsummer Festival</div></h2>
 <h4><span class=date>Friday 19th June 6:00pm to 10:00pm</span> - Jazz On The Green</h4>
 <tito-button event='hambledon-festival/hambledon-midsummer-festival-2020-jazz-on-the-green'>Book Tickets for Jazz On The Green</tito-button>
 <h4><span class=date>Saturday 20th June 12:30pm to 4pm</span> - Hambledon Village Traditional Summer Fête</h4>
@@ -22,5 +25,4 @@ blurb: "<h2><div><span class=date>Friday 19th June to Sunday 21st June 2020</spa
 <br>
 <h2><div><span class=date>Saturday 29th August 2020</span> - Hambledon Village Shop End of Summer BBQ</div></h2>
 <h2><div><span class=date>Saturday 12th December 2020</span> - Hambledon Christmas Dance</div></h2>
-<h2><div><span class=date>Thursday 24th December 2020</span> - Christmas Carols at The Shop</div></h2>"
----
+<h2><div><span class=date>Thursday 24th December 2020</span> - Christmas Carols at The Shop</div></h2>
